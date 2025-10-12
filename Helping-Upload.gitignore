@@ -64,5 +64,19 @@ desktop.ini
 # ============================================================
 # ⚙️ Misc
 # ============================================================
-# Optional: Ignore local test coverage reports
 coverage/
+
+# ============================================================
+# Visual Studio / .NET ignores (Backend)
+# ============================================================
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
