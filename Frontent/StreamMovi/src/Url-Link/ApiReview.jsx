@@ -1,0 +1,1 @@
+export const ApiReview="http://localhost:5072/api/Review"

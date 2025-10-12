@@ -1,0 +1,5 @@
+One data base ma 4 table hai 
+1 movi ka  jis ma all movi detail hai 
+2  user all user detail
+3  movies review
+4 help support

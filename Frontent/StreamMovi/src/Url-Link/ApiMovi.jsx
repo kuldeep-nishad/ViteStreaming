@@ -1,0 +1,1 @@
+export const ApiMovi= "http://localhost:5072/api/Movi"

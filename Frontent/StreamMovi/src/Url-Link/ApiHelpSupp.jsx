@@ -1,0 +1,1 @@
+export const ApiHelpSupp ="http://localhost:5072/api/Helpsupport" 
