@@ -8,7 +8,7 @@ namespace StreamMovi.Email
         public void SendOtpEmail(string toEmail, string otp)
         {
             var email = new MimeMessage();
-            email.From.Add(MailboxAddress.Parse("gsjdbisvsidv38@gmail.com"));
+            email.From.Add(MailboxAddress.Parse("Your-Gmail-XYZ@gmail.com"));
             email.To.Add(MailboxAddress.Parse(toEmail));
             email.Subject = "Your OTP for StreamMovi Signup";
             email.Body = new TextPart("plain") { Text = $"Your OTP is: {otp}" };
