@@ -1,8 +1,15 @@
-This project is for educational and personal use only.
 
-I do not own the rights to any movie content, images, or video files included in this project.
+Media Disclaimer
+
+This project does not include any real movies, posters, or copyrighted video files.
+
+Any references to movies or media are for demonstration purposes only.
+
+No ownership of movies or media is claimed.
+
 All copyrighted media belongs to their respective owners.
 
-This project was built for learning purposes as part of a college assignment and is not intended for distribution, commercial use, or public access.
+The creator of this project is not responsible for any copyrighted content that may be added or linked externally.
 
-Do not redistribute or share this repository or its contents without permission.
+License:
+Code is licensed under Apache License 2.0
