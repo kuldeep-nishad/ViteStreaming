@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj": {}
+    "D:\\test\\test\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj": {}
   },
   "projects": {
-    "D:\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj": {
+    "D:\\test\\test\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj",
+        "projectUniqueName": "D:\\test\\test\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj",
         "projectName": "StreamMovi",
-        "projectPath": "D:\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj",
+        "projectPath": "D:\\test\\test\\ViteStreaming\\Backend\\StreamMovi\\StreamMovi.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\ViteStreaming\\Backend\\StreamMovi\\obj\\",
+        "outputPath": "D:\\test\\test\\ViteStreaming\\Backend\\StreamMovi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
