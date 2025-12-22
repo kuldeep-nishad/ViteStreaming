@@ -87,7 +87,8 @@ Sysytem.identifymodel.token.jwt(8.14.0)
 
 Configure EmailService.cs → For Login/signup  OTP  is comming because you have to  given your gmail in side it Email folder Emailservice.cs file (line 11  eg("Your-Gmail-XYZ@gmail.com") ) 
 
-2️⃣ Frontend Setup (Vite + React)
+2️⃣ Frontend Setup (Vite + React)  Run it (bun add axios@^1.12.1 jwt-decode@^4.0.0 react@^19.1.1 react-dom@^19.1.1 react-icons@^5.5.0 react-player@^3.3.3 react-router@^7.9.1 react-router-dom@^7.9.1
+)
 Install required packages:
  "axios": "^1.12.1",
  "jwt-decode": "^4.0.0",
