@@ -127,10 +127,5 @@ http://localhost:5173/adminpanel
 Add movie posters & videos to:
  /public/img
 
-⚡ Results & Performance
-🚀 40% faster search and loading after optimizing SQL & API structure
-🚀 30% faster API responses through database indexing and query refinement
-🎨 Improved UI responsiveness and smoother navigation
-
 🏁 Conclusion
 This project demonstrates full-stack development capability with real-world features, including authentication, admin workflows, API integration, and DB optimization. It reflects practical experience applicable to Software Developer, Full Stack Developer, and .NET Developer roles.
